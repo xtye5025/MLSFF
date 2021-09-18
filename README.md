@@ -6,7 +6,7 @@ This repository contains the reference code for the paper Multi-Label Semantic F
 This is the list of python requirements:
 - [pytorch==1.6.0](http://pytorch.org/)
 - [torchvision==0.7.0](https://github.com/pytorch/vision)
-- [torchtext==0.7.0](https://github.com/pytorch/text)
+- [torchtext==0.6.0](https://github.com/pytorch/text)
 - [spaCy==3.0.7](https://github.com/explosion/spaCy)
 - [coco-caption](https://github.com/jiasenlu/coco-caption)
 ```
