@@ -9,9 +9,6 @@ Inference:
 - [pytorch](http://pytorch.org/)
 - [torchvision](https://github.com/pytorch/vision)
 - [torchtext](https://github.com/pytorch/text)
-
-Data Preparation:
-
 - [spaCy](https://github.com/explosion/spaCy)
 - [en-core-web-lg](https://github.com/explosion/spaCy/releases/tag/v3.0.0)
 
