@@ -10,7 +10,6 @@ Inference:
 - [torchvision](https://github.com/pytorch/vision)
 - [torchtext](https://github.com/pytorch/text)
 - [spaCy](https://github.com/explosion/spaCy)
-- [en-core-web-lg](https://github.com/explosion/spaCy/releases/tag/v3.0.0)
 
 Evaluation:
 
@@ -31,6 +30,7 @@ scikit-learn==0.24.1
 scipy==1.6.3
 tensorboard==1.15.0
 tensorboardX==2.0
+en-core-web-lg==3.0.0
 ```
 ## Training and Evaluation
 ### Data Preparation
