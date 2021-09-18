@@ -2,7 +2,7 @@
 
 This repository contains the reference code for the paper Multi-Label Semantic Feature Fusion for Remote Sensing Image Captioning.
 
-## requirement
+## Requirement
 
 Inference:
 
@@ -33,9 +33,9 @@ tensorboardX==2.0
 en-core-web-lg==3.0.0
 ```
 ## Training and Evaluation
-### Data preparation
+### Data Preparation
 
-### Pretrained model
+### Pretrained Model
 
 ### Training
 
