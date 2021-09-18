@@ -33,7 +33,7 @@ tensorboardX==2.0
 en-core-web-lg==3.0.0
 ```
 ## Training and Evaluation
-### Data Preparation
+### Data preparation
 
 ### Pretrained model
 
