@@ -4,12 +4,12 @@ This repository contains the reference code for the paper Multi-Label Semantic F
 
 ## Dependencies
 This is the list of python requirements:
+- [pytorch==1.6.0](http://pytorch.org/)
+- [torchvision==0.7.0](https://github.com/pytorch/vision)
+- [torchtext==0.7.0](https://github.com/pytorch/text)
+- [spaCy==3.0.7](https://github.com/explosion/spaCy)
 ```
 python==3.7.6
-- [pytorch](http://pytorch.org/)
-- [torchvision](https://github.com/pytorch/vision)
-- [torchtext](https://github.com/pytorch/text)
-- [spaCy](https://github.com/explosion/spaCy)
 numpy==1.21.1
 pandas==1.3.1
 Pillow==8.1.2
