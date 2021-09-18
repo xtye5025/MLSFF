@@ -13,7 +13,7 @@ Inference:
 
 Evaluation:
 
-- [coco-caption](https://github.com/jiasenlu/coco-caption): Download the modified version of coco-caption and put it under `tools/`
+- [coco-caption](https://github.com/jiasenlu/coco-caption): Download the modified version of coco-caption.
 
 ## Dependencies
 This is the list of python requirements:
