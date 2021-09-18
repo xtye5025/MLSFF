@@ -45,3 +45,4 @@ en-core-web-lg==3.0.0
 
 ## More Information and Experimental Results
 
+![word counts ucm](Figures/word_count.png)
