@@ -32,7 +32,9 @@ Create the conda environment with the provided ```environment.yml``` file:
 ### Pretrained Model
 
 ### Training
-
+```
+python train.py --batch_size 10 --use_num_attr 2 --checkpoint_dir ./stored_weights/ --num_epoches 50
+```
 ### Evaluation
 
 ## Visualization
