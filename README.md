@@ -20,6 +20,11 @@ This is the list of python requirements:
 - tensorboard==1.15.0
 - tensorboardX==2.0
 - en-core-web-lg==3.0.0
+- 
+Create the conda environment with the provided ```environment.yml``` file:
+    ```
+    conda env create -f dependencies.yml
+    ```  
 
 ## Training and Evaluation
 ### Data Preparation
