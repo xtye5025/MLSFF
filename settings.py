@@ -1,0 +1,8 @@
+input_json='data/sydney/talk.json'
+for_eval_json='data/sydney/total_data_for_eval.json'
+input_label_h5='data/sydney/talk_label.h5'
+input_att_dir='data/features/att/'
+input_fc_dir='data/features/fc/'
+input_attr_dir = 'data/features/attr_mlp_local_10/'
+cached_tokens='data/sydney/train-idxs'
+vocab_dir = 'vocab.json'
