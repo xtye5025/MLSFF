@@ -197,7 +197,7 @@ def train(args):
                 torch.cuda.synchronize()
 
 
-                if (all_batch_ind%(100)==0):
+                if (all_batch_ind%(args.eval_every_steps)==0):
                     print('\n\n')
                     print('####################################################')
                     print('Start eval on val dataset...')
